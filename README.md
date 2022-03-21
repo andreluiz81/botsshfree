@@ -15,6 +15,6 @@ __Pacotes nescessarios:__
 - screen
 - zip
 
-nosso telegram 
+nosso grupo no telegram:
 https://t.me/ALL_SOURCESBR_OFC
 
